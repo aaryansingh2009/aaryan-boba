@@ -1,21 +1,22 @@
 .heading {
-    color: red;
+    color: rgb(49, 15, 15);
     text-align: center;
-}
-
-.background {
-    color: blanchedalmond
+    font-size: 100px;
 }
 
 .text-background {
-    color: black;
+    color: rgb(240, 221, 221);
     text-align: center;
 }
 
-.body {
-    background-color: azure;
+body {
+    background-color: rgb(35, 49, 126);
 }
 
 .imganant {
     margin-left: 880px;
+}
+
+p {
+    font-size: 50px;
 }
