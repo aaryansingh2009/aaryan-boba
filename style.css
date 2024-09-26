@@ -1,0 +1,21 @@
+.heading {
+    color: red;
+    text-align: center;
+}
+
+.background {
+    color: blanchedalmond
+}
+
+.text-background {
+    color: black;
+    text-align: center;
+}
+
+.body {
+    background-color: azure;
+}
+
+.imganant {
+    margin-left: 880px;
+}
